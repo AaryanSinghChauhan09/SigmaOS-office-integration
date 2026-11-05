@@ -1,0 +1,9 @@
+[package]
+name = "sigmaos_office_integration"
+version = "0.1.0"
+edition = "2021"
+description = "SigmaOS office integration layer — default apps, file associations, fonts, XDG portals, printing, and desktop launchers"
+
+[lib]
+name = "sigmaos_office_integration"
+path = "src/lib.rs"
