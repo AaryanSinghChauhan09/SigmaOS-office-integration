@@ -3,7 +3,7 @@ name = "SigmaOS-office-integration"
 tier = 3
 stability = "scaffold"
 language = "rust"
-description = "SigmaOS office integration layer — default apps, file associations, fonts, XDG portals, printing, and desktop launchers"
+description = "No GitHub description is set; component scope remains unclassified."
 upstream = ["https://github.com/linuxmint/libreoffice-style-mint"]
 
 [contract]
